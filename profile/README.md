@@ -43,7 +43,7 @@
 **Sass:** 확장된 CSS 구성 <br />
 
 ### Backend
-**Django:** 전반적인 서버 사이드 구현 <br />
+**Django, rest framework, sqlite3:** 전반적인 서버 사이드 구현 <br />
 
 <h2 id="maintainers">💁🏻‍♀️💁🏻‍♂️ 개발 구성원</h2>
 
