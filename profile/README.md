@@ -65,7 +65,7 @@
           height="60px"
         />
       </td>
-      <td width="100px" align="center">최승용</td>
+      <td width="100px" align="center">박도규</td>
       <td width="300px">백엔드 개발 및 프로젝트 매니저</td>
       <td width="150px" align="center">
         <a href="https://github.com/yyyy7246">
@@ -83,7 +83,7 @@
           height="60px"
         />
       </td>
-      <td width="100px" align="center">박도규</td>
+      <td width="100px" align="center">최승용</td>
       <td width="300px">백엔드 개발</td>
       <td width="150px" align="center">
         <a href="https://github.com/tt0kyu">
