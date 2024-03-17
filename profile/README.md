@@ -60,7 +60,7 @@
     <tr>
       <td width="100px" align="center">
         <img
-          src="https://avatars.githubusercontent.com/u/55538662?v=4"
+          src="https://avatars.githubusercontent.com/u/55736240?v=4"
           width="60px"
           height="60px"
         />
@@ -78,7 +78,7 @@
     <tr>
       <td width="100px" align="center">
         <img
-          src="https://avatars.githubusercontent.com/u/55736240?v=4"
+          src="https://avatars.githubusercontent.com/u/55538662?v=4"
           width="60px"
           height="60px"
         />
