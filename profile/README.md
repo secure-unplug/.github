@@ -68,9 +68,9 @@
       <td width="100px" align="center">박도규</td>
       <td width="300px">백엔드 개발 및 프로젝트 매니저</td>
       <td width="150px" align="center">
-        <a href="https://github.com/yyyy7246">
+        <a href="https://github.com/tt0kyu">
           <img
-            src="https://img.shields.io/badge/yyyy7246-655ced?style=social&logo=github"
+            src="https://img.shields.io/badge/tt0kyu-655ced?style=social&logo=github"
           />
         </a>
       </td>
@@ -86,9 +86,9 @@
       <td width="100px" align="center">최승용</td>
       <td width="300px">백엔드 개발</td>
       <td width="150px" align="center">
-        <a href="https://github.com/tt0kyu">
+        <a href="https://github.com/yyyy7246">
           <img
-            src="https://img.shields.io/badge/tt0kyu-655ced?style=social&logo=github"
+            src="https://img.shields.io/badge/yyyy7246-655ced?style=social&logo=github"
           />
         </a>
       </td>
